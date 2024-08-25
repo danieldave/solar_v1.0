@@ -27,6 +27,6 @@ To run this project locally, follow these steps:
 
 Enjoy the animation! The Earth and Moon will orbit smoothly around the Sun.
 
-License
+License:
 This project is open-source and available for use and modification.
 
